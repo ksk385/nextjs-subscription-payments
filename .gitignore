@@ -40,3 +40,9 @@ yarn-error.log*
 # certificates
 certificates
 .env*.local
+
+# sst
+.sst
+
+# open-next
+.open-next
